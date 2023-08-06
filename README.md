@@ -78,7 +78,7 @@ cd /path/to/feedback-system/feedbackSystem
 npm run dev
 ```
 
-Both the frontend and backend servers should now be running, and the Feedback System website should be accessible at `http://localhost:3000`.
+Both the frontend and backend servers should now be running, and the Feedback System website should be accessible at `http://localhost:5173`.
 
 ## Usage
 
